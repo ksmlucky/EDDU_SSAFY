@@ -1,4 +1,4 @@
-# ![favicon-32x32](/uploads/0065b79aaeec8b89d0386770bf08fcb7/favicon-32x32.png) EDDU SSAFY(에뜌 싸피)
+# ![image](https://user-images.githubusercontent.com/77111523/219029088-dbf95ee3-4a1d-43cc-a99f-5737cd6e9d1a.png) EDDU SSAFY(에뜌 싸피)
 비대면 수업을 위한 화상회의 사이트
 
 <br/>
@@ -108,34 +108,34 @@ feature : 세부 기능을 개발하는 브랜치
 
 - **와이어프레임**(figma)
 
-![image](/uploads/fef3c172a69813a46ec8e44c7afea670/image.png)
+![image](https://user-images.githubusercontent.com/77111523/219029239-db81b561-d501-41f1-ba4d-cc3dc80d763c.png)
 
 <br/>
 
 - **ERD**
 
-![image](/uploads/5b20fd3e0259ce47136e939d85d5f1fb/image.png)
+![image](https://user-images.githubusercontent.com/77111523/219029281-f048feab-ca72-43bd-8d75-9ec6d34f54ff.png)
 
 <br/>
 
 - **화면정의서**
 
-<img src="/uploads/17028b920dfb76d79d4f25ac38f2e5c7/image.png" width="45%"> <img src="/uploads/88ce51527c0d7d02181a6cc210c85a8c/image.png" width="45%">
-<img src="/uploads/07d3045d7c2c95165181bf8541b3d3e3/image.png" width="45%"> <img src="/uploads/6ba5be1bcdd1e14a3bef9a918cf2de0d/image.png" width="45%">
-<img src="/uploads/4a466c788d73adb7a2ec93b17f838a2a/image.png" width="45%">
+<img src="https://user-images.githubusercontent.com/77111523/219029341-67d7ab57-52de-48cb-9bd1-86cd5f65b07d.png" width="45%"> <img src="https://user-images.githubusercontent.com/77111523/219029470-1e6bd0b8-3ea2-468b-8b7d-4b7c0e3d9da0.png" width="45%">
+<img src="https://user-images.githubusercontent.com/77111523/219029528-9bf00f05-7443-4257-86a0-5f2f48eb400f.png" width="45%"> <img src="https://user-images.githubusercontent.com/77111523/219029566-e98b827f-48ef-45b3-8e88-b5504f491ae6.png" width="45%">
+<img src="https://user-images.githubusercontent.com/77111523/219029618-485ff192-48ea-42cb-a60d-ca03c9bddac8.png" width="45%">
 
 <br/>
 
-<img src="/uploads/f530e8f431395ad1d73d72bdf5db4d85/image.png" width="45%"> <img src="/uploads/d6d7718c53f86086e75fd6de0eb78886/image.png" width="45%">
-<img src="/uploads/6fe31aab8ca622964259fb8ff651c9fa/image.png" width="45%">
+<img src="https://user-images.githubusercontent.com/77111523/219029703-9854808d-33d3-49af-8a0e-c2fe7ef151ec.png" width="45%"> <img src="https://user-images.githubusercontent.com/77111523/219029785-f53e9012-d370-408d-83d8-3e94bcb15645.png" width="45%">
+<img src="https://user-images.githubusercontent.com/77111523/219029848-9d392c65-f4e0-4384-bbd8-f8cc7c978b07.png" width="45%">
 
 <br/>
 
 - **시퀀스 다이어그램**
 
-<img src="/uploads/174558e5e0ad665433136461962f2adc/image.png" width="45%"> <img src="/uploads/6dd1c4a71dd68df28d9655548b462d9e/image.png" width="45%">
-<img src="/uploads/71855836f707b1c0e8f07b42ab90fa63/image.png" width="45%"> <img src="/uploads/b83155f8fa963d9d3e774aaa12cfda49/image.png" width="45%">
-<img src="/uploads/f9dcee540d384403ea660dff248fd6e3/image.png" width="45%"> <img src="/uploads/54ba1d146c6d84c83a8aa632b89ade6f/image.png" width="45%">
+<img src="https://user-images.githubusercontent.com/77111523/219030034-f6d137fd-dd54-4d7c-8c0e-872e6d0fb486.png" width="45%"> <img src="https://user-images.githubusercontent.com/77111523/219030087-5d64848d-679d-4894-8cb0-f212c28aaf64.png" width="45%">
+<img src="https://user-images.githubusercontent.com/77111523/219030123-2a4e302c-8d52-4cb5-9024-da74c8ac5ee5.png" width="45%"> <img src="https://user-images.githubusercontent.com/77111523/219030164-8703e5a6-5ef3-4161-b06f-9447a731f02e.png" width="45%">
+<img src="https://user-images.githubusercontent.com/77111523/219030216-705782e9-bf88-4398-9850-072508eff956.png" width="45%"> <img src="https://user-images.githubusercontent.com/77111523/219030262-e0bdd0b2-31d3-4f04-ab4c-8351b4bab60a.png" width="45%">
 
 
 <br/><br/><br/>
@@ -238,7 +238,7 @@ $ docker run -p 4443:4443 --rm -e OPENVIDU_SECRET=MY_SECRET openvidu/openvidu-se
 
 ## ⚙시스템 환경 및 구성
 
-![아키텍쳐](/uploads/f32d442589c8e456c69a6c20e1efe00a/아키텍쳐.png)
+![image](https://user-images.githubusercontent.com/77111523/219030751-05dec548-25f9-452f-ba30-d89f32ad0951.png)
 
 - OS: Windows10, Linux
 - Backend Framework: Spring Boot 2.7.1
