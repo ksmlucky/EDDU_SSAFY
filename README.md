@@ -179,19 +179,19 @@ feature : 세부 기능을 개발하는 브랜치
 ![회원_탈퇴](https://user-images.githubusercontent.com/77111523/219032519-1cb632cf-4f66-4ff1-a756-2dd633e08d60.gif)
 
 ### 채팅 기능(학생용)
-![채팅_기능_학생용_](/uploads/4a519bde36a110564abc15fbb2cc3579/채팅_기능_학생용_.gif)
+![채팅_기능_학생용_-min](https://user-images.githubusercontent.com/77111523/219035288-a086125e-ee76-4650-bb87-0cc2fb4d3131.gif)
 
 ### 퀴즈 풀기(학생용)
 ![퀴즈_풀기_학생용_ (1)](https://user-images.githubusercontent.com/77111523/219033217-6d9bacf4-a97b-4956-b31b-a2c47a28a8af.gif)
 
 ### 방 입장(학생용)
-![방_입장_학생용_](/uploads/65cd9f15c95eef8df207f32bd73c2196/방_입장_학생용_.gif)
+![방 입장(학생용)-min](https://user-images.githubusercontent.com/77111523/219035119-a2a9a48b-6915-49f4-b41d-2d9a049c5f08.gif)
 
 ### 방 생성(교수용)
 ![방_생성_교수용_](https://user-images.githubusercontent.com/77111523/219033331-a36524ec-30fe-4810-bb9a-6a158e294de6.gif)
 
 ### 채팅 기능(교수용)
-![채팅_기능_교수용_](/uploads/b30644be16ee32be849f9d4a4c9b2546/채팅_기능_교수용_.gif)
+![채팅_기능_교수용_-min](https://user-images.githubusercontent.com/77111523/219035220-0588984e-38d3-454f-8603-75b41ad07779.gif)
 
 ### 퀴즈 생성(교수용)
 ![퀴즈_생성_교수용_](https://user-images.githubusercontent.com/77111523/219033415-78452e62-af4d-436d-a6a2-6da379ad28e4.gif)
